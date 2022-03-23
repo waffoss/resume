@@ -1,0 +1,137 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Tsvetomir Tsvetkov",
+    "label": "Front-end software developer",
+    "image": "https://scontent.fsof8-1.fna.fbcdn.net/v/t1.6435-9/36423176_1821740657884550_6333136578843508736_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=1JYE69_-Jg8AX8k0Y1_&_nc_ht=scontent.fsof8-1.fna&oh=00_AT905_U-Az72jJBEcQupPsAm9dBPXmFkuQr1haYgb5qCsA&oe=6261313F",
+    "email": "thewaffoss@gmail.com",
+    "phone": "0886063715",
+    "summary": "I am a Front-end web developer with a main focus on Angular 2+. My professional experience is about 5 years. I like to collaborate with other designers and developers, as well as troubleshooting technical issues.",
+    "location": {
+      "postalCode": "1715",
+      "city": "Sofia",
+      "countryCode": "BG",
+      "region": "Bulgaria"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "tsvetomir-tsvetkov-430456144",
+        "url": "https://www.linkedin.com/in/tsvetomir-tsvetkov-430456144/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "EPAM Systems Inc.",
+      "location": "Sofia, Bulgaria",
+      "position": "Software Developer",
+      "url": "https://www.epam.com/",
+      "startDate": "2019-05-01",
+      "summary": "Projects related to Airline industry, providing IT solutions for Passenger and Cargo Travel.",
+      "highlights": [
+        "Resolved bugs in the UI and added new features.",
+        "Worked tightly with the backend team.",
+        "Worked on a platform using the UI components.",
+        "Actively communicated with client.",
+        "Actively took part in all scrum activities that took place (dailies, retrospectives etc.)."
+      ]
+    },
+    {
+      "name": "Musala Soft JSC",
+      "location": "Sofia, Bulgaria",
+      "position": "Junior Software Developer",
+      "url": "https://www.musala.com/",
+      "startDate": "2018-02-12",
+      "endDate": "2019-05-01",
+      "summary": "Internal corporate project related to people management, people grow, assessments and salary management to cover the needs of the company.",
+      "highlights": [
+        "Developed application Front-end with JavaScript",
+        "Worked as a member of Agile / SCRUM team (contributed to sprints planning, estimated development tasks, and participated in daily standups aiming to synchronize on functionality priority)",
+        "Covered development deliverables by Unit tests and detailed technical specifications"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Varna Free University 'Chernorizets Hrabar'",
+      "url": "https://www.vfu.bg/en/",
+      "area": "Informatics and computer science",
+      "studyType": "Bachelor",
+      "startDate": "2016-09-01",
+      "endDate": "2021-12-01"
+    },
+    {
+      "institution": "Software University",
+      "url": "https://softuni.bg/",
+      "area": "Software engineering",
+      "startDate": "2016-09-01",
+      "endDate": "2018-02-01",
+      "courses": [
+        "Programming fundamentals",
+        "Software technologies",
+        "JavaScript essentials",
+        "JavaScript advanced",
+        "JavaScript applications",
+        "Angular 2+"
+      ]
+    },
+    {
+      "institution": "PMG 'Geo Milev' Stara Zagora",
+      "url": "http://pmgsz.org/",
+      "studyType": "Middle School",
+      "area": "Mathematics and Informatics",
+      "startDate": "2011-09-15",
+      "endDate": "2016-05-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "JavaScript",
+        "TypeScript",
+        "Angular 2+"
+      ]
+    },
+    {
+      "name": "Other Development",
+      "level": "Beginner, Interests",
+      "keywords": [
+        "Swift",
+        "Flutter",
+        "Appwrite"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Bulgarian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Traveling"
+    },
+    {
+      "name": "Hiking"
+    },
+    {
+      "name": "Gaming"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
